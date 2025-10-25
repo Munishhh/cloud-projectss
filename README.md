@@ -44,14 +44,14 @@
 ## 🔗 Connect With Me
 🌐 **Instagram:** [@munish.251](https://www.instagram.com/munish.251)  
 💼 **LinkedIn:** [Coming Soon]  
-📂 **GitHub Projects:** [github.com/Munish251](https://github.com/Munish251)
+📂 **GitHub Projects:** [github.com/Munishhh](https://github.com/Munishhh)
 
 ---
 
 ### ✨ Stats & Activity
-![Munish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munish251&show_icons=true&theme=tokyonight)
+![Munish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munishhh&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munish251&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munishhh&layout=compact&theme=tokyonight)
 
 ---
 
